@@ -1,0 +1,33 @@
+{
+  "title":"Matematicando ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Quanto é 5x5 ?",
+      "options":[
+        {"id": 1, "name":"25", "alias":"A"},
+        {"id": 2, "name":"30", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual a metade da metade de 3 ?",
+      "options":[
+        {"id": 1, "name":"0,75", "alias":"A"},
+        {"id": 2, "name":"1", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Se andando do ponto A ao ponto B, leva 1 hora e, se pararmos por 2 minutos a cada 3 minutos andados, qual seria o total que levaria para andar e parar ?",
+      "options":[
+        {"id": 1, "name":"35 minutos parado e 25 minutos andando", "alias":"B"},
+        {"id": 2, "name":"24 minutos parado e 36 minutos andando", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você é bem inteligente! Você acertou!",
+    "B": "Você se deu mal! Você errou!"
+  }
+}
